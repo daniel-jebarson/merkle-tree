@@ -9,8 +9,8 @@ public class MerkleTest {
 		tempTxList.add("My");
 		tempTxList.add("name");
 		tempTxList.add("is");
-		tempTxList.add("Nikhil");
-		tempTxList.add("Goyal");
+		tempTxList.add("daniel");
+		tempTxList.add("Jebarson");
 
 		MerkleTrees merkleTrees = new MerkleTrees();
 		merkleTrees.merkle_tree();
