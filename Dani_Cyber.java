@@ -4,7 +4,7 @@ public class Dani_Cyber {
 
     public static void main(String[] args) {
 
-        String key = "Dani_Cyber";
+        String DANI JEBARRSON";
         String ori = "My Name is Daniel Jebarson and I live in Tamil Nadu.";
         String enc = new Dani_Cyber().encrypt(ori, key);
         System.out.println(enc);
